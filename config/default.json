@@ -1,0 +1,9 @@
+{
+    "host": "0.0.0.0",
+    "port": 8000,
+    "publicurl": "http://localhost:8000",
+
+    "expiration": 86400,
+    "iconext": ".icon",
+    "defaulticonpath": "./icon_folder_bg.png"
+}
